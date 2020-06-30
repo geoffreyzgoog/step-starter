@@ -1,6 +1,6 @@
 # Google Student Training in Engineering Program
 
-This repo contains my barely awesome projects.
+This repo contains my already barely awesome projects.
 
 This work is based on the [Google Software Product Sprint](https://g.co/softwareproductsprint) program.
 
