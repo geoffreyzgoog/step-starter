@@ -27,7 +27,7 @@
 
   <build>
     <plugins>
-      <!-- Provides `mvn package appengine:run` for local testing
+      <!-- Provides `mvn package appengin:run` for local testing
            and `mvn package appengine:deploy` for deploying. -->
       <plugin>
         <groupId>com.google.cloud.tools</groupId>
@@ -35,7 +35,7 @@
         <version>2.2.0</version>
         <configuration>
           <!-- TODO: set project ID. -->
-          <deploy.projectId>YOUR_PROJECT_ID_HERE</deploy.projectId>
+          <deploy.projectId>geoffreyz-step20</deploy.projectId>
           <deploy.version>1</deploy.version>
         </configuration>
       </plugin>
