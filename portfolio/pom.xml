@@ -27,7 +27,7 @@
 
   <build>
     <plugins>
-      <!-- Provides `mvn package appengin:run` for local testing
+      <!-- Provides `mvn package appengine:run` for local testing
            and `mvn package appengine:deploy` for deploying. -->
       <plugin>
         <groupId>com.google.cloud.tools</groupId>
